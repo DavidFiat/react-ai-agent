@@ -154,5 +154,17 @@
     "status": "Active",
     "department": "Product",
     "manager": "Laura Torres"
+  },
+  {
+    "id": 14,
+    "name": "Camila Ortega",
+    "email": "camila.ortega@example.com",
+    "age": 31,
+    "occupation": "Product Manager",
+    "location": "Bogotá",
+    "joindate": "2022-10-01",
+    "status": "Active",
+    "department": "Product",
+    "manager": "Laura Torres"
   }
 ]
