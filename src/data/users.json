@@ -118,5 +118,29 @@
     "status": "Active",
     "department": "Marketing",
     "manager": "Michael Johnson"
+  },
+  {
+    "id": 11,
+    "name": "E Johnson",
+    "email": "a@gmail.com",
+    "age": 28,
+    "occupation": "Designer",
+    "location": "Austin",
+    "joindate": "2024-06-01",
+    "status": "Active",
+    "department": "Design",
+    "manager": "Michael Johnson"
+  },
+  {
+    "id": 12,
+    "name": "Alice Smith",
+    "email": "alice@example.com",
+    "age": 32,
+    "occupation": "Developer",
+    "location": "Berlin",
+    "joindate": "2023-04-15",
+    "status": "Active",
+    "department": "Engineering",
+    "manager": "John Doe"
   }
 ]
