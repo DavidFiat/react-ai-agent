@@ -121,26 +121,38 @@
   },
   {
     "id": 11,
-    "name": "Alice Johnson",
+    "name": "Alice Gómez",
     "email": "alice@example.com",
-    "age": 28,
-    "occupation": "Designer",
-    "location": "Austin",
-    "joindate": "2023-06-01",
+    "age": 29,
+    "occupation": "Product Manager",
+    "location": "Bogotá",
+    "joindate": "2023-04-10",
     "status": "Active",
-    "department": "Design",
-    "manager": "Michael Johnson"
+    "department": "Product",
+    "manager": "John Smith"
   },
   {
     "id": 12,
-    "name": "Ana Fer",
-    "email": "aa",
-    "age": 28,
-    "occupation": "Designer",
-    "location": "Austin",
-    "joindate": "2024-06-01",
+    "name": "Alice Gómez",
+    "email": "alice@example.com",
+    "age": 29,
+    "occupation": "Product Manager",
+    "location": "Bogotá",
+    "joindate": "2023-04-10",
     "status": "Active",
-    "department": "Design",
-    "manager": "Michael Johnson"
+    "department": "Product",
+    "manager": "John Smith"
+  },
+  {
+    "id": 13,
+    "name": "Alice Gómez",
+    "email": "alice@example.com",
+    "age": 29,
+    "occupation": "Product Manager",
+    "location": "Bogotá",
+    "joindate": "2023-04-10",
+    "status": "Active",
+    "department": "Product",
+    "manager": "John Smith"
   }
 ]
