@@ -190,5 +190,29 @@
     "status": "Active",
     "department": "Product",
     "manager": "John Smith"
+  },
+  {
+    "id": 17,
+    "name": "Alice Gómez",
+    "email": "alice@example.com",
+    "age": 29,
+    "occupation": "Product Manager",
+    "location": "Bogotá",
+    "joindate": "2023-04-10",
+    "status": "Active",
+    "department": "Product",
+    "manager": "John Smith"
+  },
+  {
+    "id": 18,
+    "name": "Alice Gómez",
+    "email": "alice@example.com",
+    "age": 29,
+    "occupation": "Product Manager",
+    "location": "Bogotá",
+    "joindate": "2023-04-10",
+    "status": "Active",
+    "department": "Product",
+    "manager": "John Smith"
   }
 ]
