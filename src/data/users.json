@@ -118,5 +118,29 @@
     "status": "Active",
     "department": "Marketing",
     "manager": "Michael Johnson"
+  },
+  {
+    "id": 11,
+    "name": "Alice Johnson",
+    "email": "alice@example.com",
+    "age": 28,
+    "occupation": "Designer",
+    "location": "Austin",
+    "joindate": "2023-06-01",
+    "status": "Active",
+    "department": "Design",
+    "manager": "Michael Johnson"
+  },
+  {
+    "id": 12,
+    "name": "Ana Fer",
+    "email": "aa",
+    "age": 28,
+    "occupation": "Designer",
+    "location": "Austin",
+    "joindate": "2024-06-01",
+    "status": "Active",
+    "department": "Design",
+    "manager": "Michael Johnson"
   }
 ]
