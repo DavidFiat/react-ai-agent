@@ -274,5 +274,29 @@
     "status": "Active",
     "department": "Design",
     "manager": "Michael Johnson"
+  },
+  {
+    "id": 24,
+    "name": "Camila Yamile",
+    "email": "a@gmail.com",
+    "age": 48,
+    "occupation": "Designer",
+    "location": "Austin",
+    "joindate": "2024-06-01",
+    "status": "Active",
+    "department": "Design",
+    "manager": "Michael Johnson"
+  },
+  {
+    "id": 25,
+    "name": "Camila Yamile",
+    "email": "a@gmail.com",
+    "age": 48,
+    "occupation": "Designer",
+    "location": "Austin",
+    "joindate": "2024-06-01",
+    "status": "Active",
+    "department": "Design",
+    "manager": "Michael Johnson"
   }
 ]
