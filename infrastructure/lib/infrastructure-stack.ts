@@ -59,7 +59,7 @@ export class InfrastructureStack extends Stack {
         {
           namespace: 'aws:elasticbeanstalk:application:environment',
           optionName: 'GH_TOKEN',
-          value: process.env.GH_TOKEN || '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',
+          value: process.env.GH_TOKEN || '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',
         },
         {
           namespace: 'aws:elasticbeanstalk:application:environment',
@@ -74,7 +74,7 @@ export class InfrastructureStack extends Stack {
         {
           namespace: 'aws:elasticbeanstalk:application:environment',
           optionName: 'LINEAR_API_KEY',
-          value: process.env.LINEAR_API_KEY || 'lin_api_vFx9SyCBfFmimsmDvULM4T5BPVnSA7VW4aRzafBf',
+          value: process.env.LINEAR_API_KEY || 'lin_api_ryvLiQloYS1g9F0RgmInwbqXth5LJxVjHIhgFKvf',
         },
           {
           namespace: 'aws:elbv2:listener:443',
