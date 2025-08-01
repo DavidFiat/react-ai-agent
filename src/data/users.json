@@ -49,15 +49,16 @@
   },
   {
     "id": 5,
-    "name": "Robert Wilson",
-    "email": "robert.wilson@example.com",
-    "age": 34,
-    "occupation": "UX Designer",
-    "location": "Chicago, IL",
+    "name": "Jorge Cabrera",
+    "email": "jane@org.com",
+    "age": 29,
+    "occupation": "Analyst",
+    "location": "Toronto",
     "joinDate": "2022-02-18",
     "status": "Active",
-    "department": "Design",
-    "manager": "Sarah Thompson"
+    "department": "Ops",
+    "manager": "Carl",
+    "joindate": "2022-07-15"
   },
   {
     "id": 6,
@@ -118,5 +119,113 @@
     "status": "Active",
     "department": "Marketing",
     "manager": "Michael Johnson"
+  },
+  {
+    "id": 11,
+    "name": "Alice Gómez",
+    "email": "alice@example.com",
+    "age": 29,
+    "occupation": "Product Manager",
+    "location": "Bogotá",
+    "joindate": "2023-04-10",
+    "status": "Active",
+    "department": "Product",
+    "manager": "John Smith"
+  },
+  {
+    "id": 12,
+    "name": "Alice Gómez",
+    "email": "alice@example.com",
+    "age": 29,
+    "occupation": "Product Manager",
+    "location": "Bogotá",
+    "joindate": "2023-04-10",
+    "status": "Active",
+    "department": "Product",
+    "manager": "John Smith"
+  },
+  {
+    "id": 13,
+    "name": "Alice Gómez",
+    "email": "alice@example.com",
+    "age": 29,
+    "occupation": "Product Manager",
+    "location": "Bogotá",
+    "joindate": "2023-04-10",
+    "status": "Active",
+    "department": "Product",
+    "manager": "John Smith"
+  },
+  {
+    "id": 14,
+    "name": "Alice Gómez",
+    "email": "alice@example.com",
+    "age": 29,
+    "occupation": "Product Manager",
+    "location": "Bogotá",
+    "joindate": "2023-04-10",
+    "status": "Active",
+    "department": "Product",
+    "manager": "John Smith"
+  },
+  {
+    "id": 15,
+    "name": "Camile Gómez",
+    "email": "camile@example.com",
+    "age": 29,
+    "occupation": "Product Manager",
+    "location": "Bogotá",
+    "joindate": "2023-04-10",
+    "status": "Active",
+    "department": "Product",
+    "manager": "John Smith"
+  },
+  {
+    "id": 16,
+    "name": "Tomas Smith",
+    "email": "tomas@org.com",
+    "age": 29,
+    "occupation": "Analyst",
+    "location": "Toronto",
+    "joindate": "2022-07-15",
+    "status": "Active",
+    "department": "Ops",
+    "manager": "Carl"
+  },
+  {
+    "id": 17,
+    "name": "Jane Smith",
+    "email": "jane@org.com",
+    "age": 29,
+    "occupation": "Analyst",
+    "location": "Toronto",
+    "joindate": "2022-07-15",
+    "status": "Active",
+    "department": "Ops",
+    "manager": "Carl"
+  },
+  {
+    "id": 18,
+    "name": "Jane Smith",
+    "email": "jane@org.com",
+    "age": 29,
+    "occupation": "Analyst",
+    "location": "Toronto",
+    "joindate": "2022-07-15",
+    "status": "Active",
+    "department": "Ops",
+    "manager": "Carl"
+  },
+  {
+    "id": 19,
+    "name": "Daniel Gómez",
+    "email": "daniel@example.com",
+    "age": 29,
+    "occupation": "Product Manager",
+    "location": "Bogotá",
+    "joindate": "2023-04-10",
+    "status": "Active",
+    "department": "Product",
+    "manager": "John Smith"
   }
 ]
