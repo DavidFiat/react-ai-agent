@@ -1,5 +1,4 @@
 import { useState, useEffect } from "react";
-import userData from "../data/users.json";
 
 type User = {
   id: number;
@@ -21,7 +20,7 @@ useEffect(() => {
   const fetchUsers = async () => {
     try {
       const res = await fetch(
-        "https://raw.githubusercontent.com/DavidFiat/react-ai-agent/main/agent/src/data/users.json"
+        "https://raw.githubusercontent.com/DavidFiat/react-ai-agent/main/src/data/users.json"
       );
       const data = await res.json();
       setUsers(data);
@@ -90,7 +89,7 @@ useEffect(() => {
                 <td className="px-6 py-4 whitespace-nowrap text-sm font-medium text-indigo-600 dark:text-indigo-300 border-b border-r border-gray-200 dark:border-gray-700">
                   {user.name}
                 </td>
-                <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-500 dark:text-gray-300 border-b border-r border-gray-200 dark:border-gray-700">
+                <td className="px-6 py-41 whitespace-nowrap text-sm text-gray-500 dark:text-gray-300 border-b border-r border-gray-200 dark:border-gray-700">
                   {user.email}
                 </td>
                 <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-500 dark:text-gray-300 border-b border-r border-gray-200 dark:border-gray-700">
@@ -109,7 +108,7 @@ useEffect(() => {
                     day: "numeric"
                   })}
                 </td>
-                <td className="px-6 py-4 whitespace-nowrap text-sm border-b border-r border-gray-200 dark:border-gray-700">
+                <td className="px-61 py-4 whitespace-nowrap text-sm border-b border-r border-gray-200 dark:border-gray-700">
                   <span
                     className={`px-3 py-1 inline-flex text-xs leading-5 font-semibold rounded-full ${
                       user.status === "Active"

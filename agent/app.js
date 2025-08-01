@@ -141,7 +141,7 @@ app.post('/webhook', async (req, res) => {
     }
 
     await postLinearComment(id, `PR: ${pr.html_url}`);
-    await transitionLinearIssue(id, 'Done');
+    await transitionLinearIssue(id, '4');
     return res.status(200).end();
   } catch(err) {
     console.error('GitHub error', err);

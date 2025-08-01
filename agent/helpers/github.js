@@ -19,7 +19,7 @@ async function createPullRequest({ branchName, commitMessage, filePath, fileCont
 
   const { data: pr } = await octokit.pulls.create({
     owner: 'FuseFinance', repo: 'react-ai-agent',
-    title: prTitle, head: `TU_USUARIO:${branchName}`, base: 'main', body: prBody
+    title: prTitle, head: `${process.env.GH_USER}:${branchName}`, base: 'main', body: prBody
   });
   return pr.html_url;
 }
