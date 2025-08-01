@@ -17,9 +17,21 @@ type User = {
 const UserTable = () => {
   const [users, setUsers] = useState<User[]>([]);
 
-  useEffect(() => {
-    setUsers(userData);
-  }, []);
+useEffect(() => {
+  const fetchUsers = async () => {
+    try {
+      const res = await fetch(
+        "https://raw.githubusercontent.com/DavidFiat/react-ai-agent/main/src/data/users.json"
+      );
+      const data = await res.json();
+      setUsers(data);
+    } catch (err) {
+      console.error("Failed to fetch users:", err);
+    }
+  };
+
+  fetchUsers();
+}, []);
 
   return (
     <div className="w-full max-w-7xl mx-auto p-6 flex flex-col items-center animate-fade-in">
