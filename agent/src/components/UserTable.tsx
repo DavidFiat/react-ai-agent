@@ -21,7 +21,7 @@ useEffect(() => {
   const fetchUsers = async () => {
     try {
       const res = await fetch(
-        "https://raw.githubusercontent.com/DavidFiat/react-ai-agent/main/src/data/users.json"
+        "https://raw.githubusercontent.com/DavidFiat/react-ai-agent/main/agent/src/data/users.json"
       );
       const data = await res.json();
       setUsers(data);
