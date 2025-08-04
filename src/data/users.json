@@ -49,16 +49,15 @@
   },
   {
     "id": 5,
-    "name": "Jorge Cabrera",
-    "email": "jane@org.com",
-    "age": 29,
-    "occupation": "Analyst",
-    "location": "Toronto",
+    "name": "Robert Wilson",
+    "email": "robert.wilson@example.com",
+    "age": 34,
+    "occupation": "UX Designer",
+    "location": "Chicago, IL",
     "joinDate": "2022-02-18",
     "status": "Active",
-    "department": "Ops",
-    "manager": "Carl",
-    "joindate": "2022-07-15"
+    "department": "Design",
+    "manager": "Sarah Thompson"
   },
   {
     "id": 6,
@@ -182,18 +181,6 @@
   },
   {
     "id": 16,
-    "name": "Tomas Smith",
-    "email": "tomas@org.com",
-    "age": 29,
-    "occupation": "Analyst",
-    "location": "Toronto",
-    "joindate": "2022-07-15",
-    "status": "Active",
-    "department": "Ops",
-    "manager": "Carl"
-  },
-  {
-    "id": 17,
     "name": "Jane Smith",
     "email": "jane@org.com",
     "age": 29,
@@ -203,53 +190,5 @@
     "status": "Active",
     "department": "Ops",
     "manager": "Carl"
-  },
-  {
-    "id": 18,
-    "name": "Jane Smith",
-    "email": "jane@org.com",
-    "age": 29,
-    "occupation": "Analyst",
-    "location": "Toronto",
-    "joindate": "2022-07-15",
-    "status": "Active",
-    "department": "Ops",
-    "manager": "Carl"
-  },
-  {
-    "id": 19,
-    "name": "Daniel Gómez",
-    "email": "daniel@example.com",
-    "age": 29,
-    "occupation": "Product Manager",
-    "location": "Bogotá",
-    "joindate": "2023-04-10",
-    "status": "Active",
-    "department": "Product",
-    "manager": "John Smith"
-  },
-  {
-    "id": 20,
-    "name": "David Restrepo",
-    "email": "david@gmail.com",
-    "age": 23,
-    "occupation": "DevOps Engineer",
-    "location": "Cali",
-    "joindate": "2025-08-5",
-    "status": "Active",
-    "department": "Ops",
-    "manager": "Bruce"
-  },
-  {
-    "id": 21,
-    "name": "David Fiat",
-    "email": "fiat@gmail.com",
-    "age": 27,
-    "occupation": "Machine Learning Engineer",
-    "location": "Cali",
-    "joindate": "2025-08-5",
-    "status": "Active",
-    "department": "Ops",
-    "manager": "Bruce"
   }
 ]
