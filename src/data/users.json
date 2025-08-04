@@ -193,14 +193,14 @@
   },
   {
     "id": 17,
-    "name": "Jesus Smith",
-    "email": "jane@org.com",
-    "age": 29,
+    "name": "Jesus Paz",
+    "email": "jorgeupdated@example.com",
+    "age": 32,
     "occupation": "Analyst",
-    "location": "Toronto",
+    "location": "Cali",
     "joindate": "2022-07-15",
     "status": "Active",
     "department": "Ops",
-    "manager": "Carl"
+    "manager": "Ricki"
   }
 ]
